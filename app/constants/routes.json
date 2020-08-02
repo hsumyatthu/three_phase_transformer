@@ -1,0 +1,9 @@
+{
+  "HOME": "/",
+<<<<<<< HEAD
+  "COUNTER": "/counter",
+  "PORTLIST": "/portlist"
+=======
+  "COUNTER": "/counter"
+>>>>>>> e799828... Update dependency @types/react to ^16.9.44
+}
